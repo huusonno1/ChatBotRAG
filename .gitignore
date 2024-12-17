@@ -1,0 +1,8 @@
+# Tạo file .gitignore với nội dung:
+.idea/
+.venv/
+__pycache__/
+models/
+backup/
+.env
+*.pyc
